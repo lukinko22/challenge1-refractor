@@ -3,13 +3,16 @@
 ## This project is meant to refactor the HTML and CSS of Horiseon's web page/application
 
 ### Getting Started
- * You can find this site published on
- + You can find the repository here:
+
+ * You can find this site published on: https://lukinko22.github.io/challenge1-refractor/
+ + You can find the repository here: https://github.com/lukinko22/challenge1-refractor/
 
 ### Prerequisites:
+
  Up-to-date browser, preferably Google Chrome
 
 ### List of Changes
+
 ### HTML
 
 Changed Title from “title” to “Horiseon-Social Solution Services”
